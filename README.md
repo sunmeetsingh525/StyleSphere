@@ -1,19 +1,4 @@
-To run the app:
-clone: https://github.com/sunmeetsingh525/StyleSphere    in VScode
-install node.js
-set path in environment variable ( C:\Program Files\nodejs\ )
-install expo on mobile ( make sure your mobile and pc are on same wifi network )
-make sure to change directory in terminal to:  your cloned location\StyleSphere\mobile-app
-open terminal type     npm i 
-then type              npm start
-scan qr code generated in terminal
-then app will run on mobile ( both ios and android )
-
-For online Admin Dashboard
-Link: https://stylesphere-admin.web.app
-Credentials:  
-admin@gmail.com
-123456
+To run the app: Clone: https://github.com/sunmeetsingh525/StyleSphere in VScode. Install node.js. Set path in environment variable ( C:\Program Files\nodejs\ ). Install expo on mobile (make sure your mobile and pc are on same wifi network ). Make sure to change directory in terminal to: YourClonedLocation\StyleSphere\mobile-app. Open terminal type:  npm i , then type: npm start , Scan qr code generated in terminal. Then app will run on mobile ( both ios and android ). For online admin dashboard, Link: https://stylesphere-admin.web.app , Credentials: admin@gmail.com , PW: 123456
 
 # Sunmeet and Mariam
 ## StyleSphere
