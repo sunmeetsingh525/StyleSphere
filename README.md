@@ -1,6 +1,6 @@
 To run the app:
 clone: https://github.com/sunmeetsingh525/StyleSphere    in VScode
-install node.js if not installed
+install node.js
 set path in environment variable ( C:\Program Files\nodejs\ )
 install expo on mobile ( make sure your mobile and pc are on same wifi network )
 make sure to change directory in terminal to:  your cloned location\StyleSphere\mobile-app
